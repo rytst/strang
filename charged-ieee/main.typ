@@ -81,7 +81,7 @@ $A = mat(
 $bold(x) = mat(
   x_1;
   x_2;
-) in RR^n$,  とする.
+) in RR^2$,  とする.
 
 ここで $A bold(x) = bold(b)$ を解く.
 
